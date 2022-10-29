@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-microservice:
-  greeting: "Empiricus'"
-  default-value: "Empiricus Empiricus"
+  greeting: "Vamos Sextar!! '"
+  default-value: "Em 5 minutos!!"
